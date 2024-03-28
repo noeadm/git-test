@@ -1,2 +1,2 @@
-# git-test
+#Paragon z ważywniaka
 testujemy gita.
